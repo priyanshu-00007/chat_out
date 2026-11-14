@@ -1,4 +1,4 @@
-# ChatSphere Backend (FastAPI + Supabase PostgreSQL)
+# ChatOut Backend (FastAPI + Supabase PostgreSQL)
 
 Custom REST and native WebSocket backend for **ChatSphere**, using Supabase strictly as a hosted PostgreSQL database via SQLAlchemy and Alembic.
 
